@@ -1,34 +1,89 @@
 # decodes_labs-_task3_random_passward_generator
 A Professional Password Generator built with Python featuring secure password generation, strength analysis, password history management, and modular architecture.
-# random passward generator
-Professional Password Generator built using Python.
-## Features
-- Generate Secure Password
-- Password Strength Checker
-- Save Passwords
-- View Password History
-- Delete Password History
-- Count Saved Passwords
-- Modular Programming
-- Error Handling
-- Input Validation
-## Technologies
-Python 3
-## Modules
-random
-string
-datetime
-os
-platform
-## Folder Structure
+# 🔐 Random Password Generator
+A professional **Random Password Generator** built with Python. This project generates secure passwords based on user preferences, checks password strength, and manages password history.
+---
+## 📌 Features
+- 🔑 Generate secure random passwords
+- 🔠 Include Uppercase Letters
+- 🔡 Include Lowercase Letters
+- 🔢 Include Numbers
+- 🔣 Include Special Characters
+- 💪 Password Strength Checker
+- 💾 Save Password History
+- 📂 View Saved Passwords
+- 🗑️ Delete Password History
+- 📊 Count Saved Passwords
+- ✅ Input Validation
+- ⚠️ Error Handling
+- 🧩 Modular Programming
+---
+## 🛠️ Technologies Used
+- Python 3
+- Random Module
+- String Module
+- OS Module
+- Platform Module
+- Datetime Module
+---
+## 📂 Project Structure
+
+```text
 SecurePass-Pro/
-main.py
-generator.py
-checker.py
-file_manager.py
-utils.py
-passwords.txt
-README.md
-requirements.txt
-## Run
+│
+├── main.py
+├── generator.py
+├── checker.py
+├── file_manager.py
+├── utils.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── passwords.txt
+```
+---
+## 🚀 How to Run
+### Clone Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/SecurePass-Pro.git
+```
+### Go to Project Folder
+```bash
+cd SecurePass-Pro
+```
+### Run Program
+```bash
 python main.py
+```
+#📷 Screenshots
+### main Menu
+_Add screenshot here_
+### Password Generation
+_Add screenshot here_
+### Password History
+_Add screenshot here_
+## 🎯 Learning Objectives
+This project demonstrates:
+- Python Functions
+- Modules
+- File Handling
+- String Manipulation
+- Random Password Generation
+- Input Validation
+- Error Handling
+- Modular Programming
+
+## 🔮 Future Improvements
+- Copy password to clipboard
+- Password entropy calculator
+- Password strength score (0–100)
+- Export passwords to CSV
+- GUI Version using Tkinter
+- Dark Theme Interface
+## 👩‍💻 Developer
+Huma Fatima
+BS Computer Science Student
+Aspiring Full Stack Web Developer
+
+
+If you found this project helpful, please give it a ⭐ on GitHub.
