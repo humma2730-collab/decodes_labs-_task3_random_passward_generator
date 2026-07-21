@@ -31,5 +31,4 @@ passwords.txt
 README.md
 requirements.txt
 ## Run
-
 python main.py
