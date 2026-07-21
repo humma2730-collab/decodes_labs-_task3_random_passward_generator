@@ -29,7 +29,7 @@ A professional **Random Password Generator** built with Python. This project gen
 ## 📂 Project Structure
 
 ```text
-SecurePass-Pro/
+random passawrd Generator/
 │
 ├── main.py
 ├── generator.py
@@ -45,7 +45,7 @@ SecurePass-Pro/
 ## 🚀 How to Run
 ### Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/SecurePass-Pro.git
+git clone https://github.com/humafatimadev/Random Passward Generator.git
 ```
 ### Go to Project Folder
 ```bash
@@ -57,11 +57,8 @@ python main.py
 ```
 #📷 Screenshots
 ### main Menu
-_Add screenshot here_
-### Password Generation
-_Add screenshot here_
+### Password Generation_
 ### Password History
-_Add screenshot here_
 ## 🎯 Learning Objectives
 This project demonstrates:
 - Python Functions
@@ -72,7 +69,6 @@ This project demonstrates:
 - Input Validation
 - Error Handling
 - Modular Programming
-
 ## 🔮 Future Improvements
 - Copy password to clipboard
 - Password entropy calculator
@@ -84,6 +80,4 @@ This project demonstrates:
 Huma Fatima
 BS Computer Science Student
 Aspiring Full Stack Web Developer
-
-
 If you found this project helpful, please give it a ⭐ on GitHub.
